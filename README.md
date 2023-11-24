@@ -1,6 +1,6 @@
 # Indosky Website
 
-Indosky adalah situs web yang menyajikan informasi terkini seputar astronomi, artikel menarik, dan berita paling update dari dunia astronomi di Indonesia. Situs ini dibangun dengan menggunakan HTML, CSS, dan JavaScript.
+Indosky adalah situs web yang menyajikan informasi terkini seputar astronomi, artikel menarik, dan berita paling update dari dunia astronomi di Indonesia. Situs ini dibangun dengan menggunakan HTML, CSS, PHP, dan JavaScript.
 
 ## Daftar Isi
 
@@ -35,6 +35,7 @@ WampServer mencakup server web Apache, sistem manajemen basis data MySQL, dan in
 ## Sumber data
 1. Bootstrap docummentary
 2. Google Earth
+3. Stellarium
    
 ## Tangkapan layar
 ![image](https://github.com/veronicatia/pgweb-resp/assets/128561704/2452b321-2d4c-41dc-b345-7538506b1aab)
