@@ -1,7 +1,5 @@
 # Indosky Website
 
-![Indosky Logo](assets/img/favicon.png)
-
 Indosky adalah situs web yang menyajikan informasi terkini seputar astronomi, artikel menarik, dan berita paling update dari dunia astronomi di Indonesia. Situs ini dibangun dengan menggunakan HTML, CSS, dan JavaScript.
 
 ## Daftar Isi
