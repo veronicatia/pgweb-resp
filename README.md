@@ -4,7 +4,7 @@ Indosky adalah situs web yang menyajikan informasi terkini seputar astronomi, ar
 
 ## Daftar Isi
 
-- [Nama produk](#nama porduk)
+- [Nama produk](#nama_porduk)
 - [Deskripsi](#deskripsi)
 - [Komponen pembangun produk](#komponen)
 - [Sumber data](#sumberdata)
